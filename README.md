@@ -1,4 +1,5 @@
-
+Trevour  Baraka
+scm222-0877/2025
 IT IN STATISTICS 
 Computer - is an electronic device that process data, converting into information that is useful to people 
 Examples of computers 
